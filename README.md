@@ -18,8 +18,8 @@ MINOR_DELAY	1	0.04%
 
 <img width="2385" height="1771" alt="MRI Graphs" src="https://github.com/user-attachments/assets/b4e6aefc-0fe0-4be5-8247-bbd1aabd6b74" />
 
-**Dataset
-**
+# Data Set
+
 Source: Figshare - 2D Real-time MRI Videos (Multispeaker Speech Production Study)
 
 The dataset contains 2,371 real-time MRI videos from a speech production study with multiple speakers. These videos are used to analyze audio-video synchronization issues.
