@@ -1,9 +1,9 @@
-MRI Audio-Video Sync Analysis
-
+**#MRI Audio-Video Sync Analysis
+**
 Automated detection of audio-video synchronization issues in 2,371 MRI videos.
 
-Overview
-
+**#Overview
+**
 Analyzes large MRI video datasets to identify:
 
 Audio-video sync delays (milliseconds to seconds)
@@ -17,6 +17,12 @@ DURATION_MISMATCH	1,524	64.3%
 MINOR_DELAY	1	0.04%
 
 <img width="2385" height="1771" alt="MRI Graphs" src="https://github.com/user-attachments/assets/b4e6aefc-0fe0-4be5-8247-bbd1aabd6b74" />
+
+**Dataset
+**
+Source: Figshare - 2D Real-time MRI Videos (Multispeaker Speech Production Study)
+
+The dataset contains 2,371 real-time MRI videos from a speech production study with multiple speakers. These videos are used to analyze audio-video synchronization issues.
 
 How It Works
 Extract video metadata (FPS, duration) using OpenCV
